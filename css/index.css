@@ -1,0 +1,57 @@
+ 		.content{
+			width: 900px;
+			margin: 30px auto;
+			border: 1px solid gainsboro;
+			padding: 20px;
+						
+		}
+		.content_box {
+			width: 860px;
+			margin: 10px;			
+			overflow: hidden;
+			border: 1px solid gainsboro;
+			padding: 0 10px;
+		}
+		.hr_one {
+			margin-top: 5px;
+		}		
+		.articletuijian {
+			margin: 20px;
+			clear: both;
+		}		
+		.content_img {
+			width: 200px;			
+			margin: 10px 0 10px 0px;
+		}		
+		.content_img img {
+			width: 200px;
+			border-radius: 50px/50px;
+		}					
+		.article {
+			width: 600px;
+			height: 100px;
+			margin: 10px 10px 0 0;
+			padding-right: 5px;
+		}		
+		.article p {
+			font-size: 14px;
+			line-height: 24px;
+			color: #2F4F4F;
+		}		
+		.article a{
+			color: #46b3df;
+		}		
+		article a:hover {
+			color: burlywood;
+		}		
+		.article h2 {
+			font-size: 20px;
+		
+		}			
+		.article_right {
+			float: right;
+			margin-right: 10px;
+		}		
+		.article_left {
+			float: left;		
+		}
